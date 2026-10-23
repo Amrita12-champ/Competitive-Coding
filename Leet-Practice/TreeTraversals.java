@@ -11,9 +11,7 @@ class Node3 {
         this.right = null;
     }
 }
-
 public class TreeTraversals {
-
     public static void preorder(Node root) {
         if (root == null) return;
         System.out.print(root.data + " ");
@@ -35,16 +33,13 @@ public class TreeTraversals {
         System.out.print(root.data + " ");
     }
 
-
     public static void levelOrder(Node root) {
         if (root == null) return;
         Queue<Node> queue = new LinkedList<>();
         queue.add(root);
-
         while (!queue.isEmpty()) {
             Node current = queue.poll();
             System.out.print(current.data + " ");
-
             if (current.left != null) queue.add(current.left);
             if (current.right != null) queue.add(current.right);
         }

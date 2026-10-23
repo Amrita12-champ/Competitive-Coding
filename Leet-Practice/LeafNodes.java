@@ -1,8 +1,8 @@
-class Node {
+class Node1 {
     int data;
     Node left, right;
 
-    Node(int data) {
+    Node1(int data) {
         this.data = data;
         this.left = null;
         this.right = null;

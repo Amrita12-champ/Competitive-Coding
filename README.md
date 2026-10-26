@@ -13,5 +13,5 @@
 **- GFG-practice**
 
 **- Leet-Practice**
-lets practice....
+lets practice
 

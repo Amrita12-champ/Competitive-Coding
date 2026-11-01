@@ -10,7 +10,6 @@ class Node4 {
 }
 
 public class TreeInsert {
-
     public static Node insert(Node root, int val) {
         if (root == null) {
             return new Node(val);

@@ -25,7 +25,6 @@ class ReverseString {
 
         reverse(s, start, s.length - 1);
 
-        // Reverse the entire String
         reverse(s, 0, s.length - 1);
         return s;
     }

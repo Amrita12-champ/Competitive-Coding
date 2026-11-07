@@ -24,7 +24,6 @@ class LonestCommonSubstring{
         }
         return res;
     }
-
     public static void main(String[] args)
     {
         String str = "geeksforgeeks";

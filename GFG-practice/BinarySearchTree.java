@@ -56,6 +56,6 @@ class BinarySearchTree {
         tree.insert(60);
         tree.insert(80);
 
-        tree.inorder();
+        tree.inorder();//inorder traversal
     }
 }

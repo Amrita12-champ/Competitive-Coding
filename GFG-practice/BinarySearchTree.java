@@ -45,7 +45,7 @@ class BinarySearchTree {
         }
     }
 
-    public static void main(String[] args) {
+    public static void smain(String[] args) {
         BinarySearchTree tree = new BinarySearchTree();
 
         tree.insert(50);
@@ -58,4 +58,4 @@ class BinarySearchTree {
 
         tree.inorder();//inorder traversal
     }
-}//uptodate
+}//uptodate hthe program

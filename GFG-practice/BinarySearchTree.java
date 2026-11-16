@@ -58,4 +58,4 @@ class BinarySearchTree {
 
         tree.inorder();//inorder traversal
     }
-}//uptodate hthe program
+}//uptodate to push something new on 16th nov

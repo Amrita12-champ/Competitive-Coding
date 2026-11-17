@@ -57,5 +57,5 @@ class BinarySearchTree {
         tree.insert(80);
 
         tree.inorder();
-    }//as everything is update dnow
+    }//as everything is update
 }

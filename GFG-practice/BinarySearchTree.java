@@ -56,6 +56,6 @@ class BinarySearchTree {
         tree.insert(60);
         tree.insert(80);
 
-        tree.inorder();//inorder traversal
+        tree.inorder();
     }
-}//uptodate to push something new on 16th nov
+}

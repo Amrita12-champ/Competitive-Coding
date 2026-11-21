@@ -5,10 +5,6 @@
 
 
 **## Folders**
-.
-.
-.
-.
 
 **- GFG-practice**
 
